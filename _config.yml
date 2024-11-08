@@ -64,7 +64,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:tobias.kuerschner@gamil.com"
+      url: "mailto:tobias.kuerschner@gmail.com"
     - label: "Researchgate"
       icon: ""
       url: "https://www.researchgate.net/profile/Tobias-Kuerschner"
@@ -76,13 +76,13 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:tobias.kuerschner@gamil.com"
+      url: "mailto:tobias.kuerschner@gmail.com"
     - label: "Researchgate"
       icon: ""
       url: "https://www.researchgate.net/profile/Tobias-Kuerschner"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tkuerschner"
 
 defaults:
   # _posts
