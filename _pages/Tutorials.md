@@ -1,7 +1,7 @@
 ---
+layout: home
 permalink: /tutorials/
 title: "Tutorials"
-layout: home
 author_profile: true
 header:
   overlay_image: assets/images/wbd.jpg
