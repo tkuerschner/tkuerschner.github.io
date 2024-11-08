@@ -77,12 +77,12 @@ author:
 
 footer:
   links:
-   - label: "Researchgate"
-      icon: ""
-      url: "https://www.researchgate.net/profile/Tobias-Kuerschner"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tkuerschner"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
