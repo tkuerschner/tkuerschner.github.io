@@ -66,7 +66,7 @@ author:
       icon: "fas fa-fw fa-mail"
       url: "mailto:tobias.kuerschner@gamil.com"
     - label: "Researchgate"
-      icon: "fas fa-fw fa-researchgate"
+      icon: "researchgate"
       url: "https://www.researchgate.net/profile/Tobias-Kuerschner"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -107,9 +107,9 @@ defaults:
       layout: single
       author_profile: true
 
-#category_archive:
-#  type: liquid
-#  path: /categories/
-#tag_archive:
-#  type: liquid
-#  path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
