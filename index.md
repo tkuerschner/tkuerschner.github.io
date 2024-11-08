@@ -7,6 +7,6 @@ author_profile: true
 ---
 
 
-# About Me:
+
 
 ## I am awesome
