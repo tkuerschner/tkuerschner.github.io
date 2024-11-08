@@ -7,7 +7,7 @@ main:
     url: /projects/
   - title: "Software"
     url: /software/
-     - title: "Tutorials"
+  - title: "Tutorials"
     url: /tutorials/
   #- title: "Categories"
   #  url: /categories/
