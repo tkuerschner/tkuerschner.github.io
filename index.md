@@ -4,9 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+permanentlink: /_pages/about.md
 ---
 
 
-
-
-## I am awesome
