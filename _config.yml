@@ -63,7 +63,7 @@ author:
   bio    : "I am a ecologist with focus on individual-based models and disease ecology."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-mail"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:tobias.kuerschner@gamil.com"
     - label: "Researchgate"
       icon: ""
