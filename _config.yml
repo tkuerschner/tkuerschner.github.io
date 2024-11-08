@@ -88,7 +88,7 @@ defaults:
   # _posts
   - scope:
       path: "_tutorials"
-      type: _posts
+      type: tutorials
     values:
       layout: single
       author_profile: true
