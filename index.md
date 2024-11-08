@@ -8,6 +8,6 @@ permanentlink: /_pages/home.md
 ---
 
 
-#About Me:
+# About Me:
 
-##I am awesome
+## I am awesome
