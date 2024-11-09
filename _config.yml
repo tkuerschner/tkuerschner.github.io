@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a ecologist with focus on individual-based models and disease ecology."
   links:
+    - label: "Bavarian Forest National Park"
+      icon: "fas fa-fw fa-location-dot"
+      url: "https://www.nationalpark-bayerischer-wald.bayern.de/english/index.htm"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:tobias.kuerschner@gmail.com"
@@ -72,9 +75,7 @@ author:
     - label: "OrcID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-4587-9894"
-    - label: "Bavarian Forest National Park"
-      icon: "fa-regular fa-location-arrow"
-      url: "https://www.nationalpark-bayerischer-wald.bayern.de/english/index.htm"
+  
 
 footer:
   links:
