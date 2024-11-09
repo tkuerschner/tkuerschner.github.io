@@ -70,6 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tkuerschner"
+    - label: "OrcID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-4587-9894"
 
 footer:
   links:
@@ -82,6 +85,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tkuerschner"
+    - label: "OrcID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-4587-9894"
 
 defaults:
   # _posts
