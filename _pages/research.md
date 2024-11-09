@@ -11,7 +11,7 @@ header:
 
 ## Wildlife disease dynamics: Linking host and pathogen traits
 
-| Pathogens are a fundamental component of biodiversity, significantly impacting host population dynamics and playing a crucial role in shaping community structures. In this work, we aim to understand how species, acting as "mobile pathogen links" with their diverse movement patterns and life-history strategies, influence the distribution, spread, persistence, and evolution of diseases. | ![image-right](/assets/images/model1.gif){: .align-right width="50%"}| 
+| Pathogens are a fundamental component of biodiversity, significantly impacting host population dynamics and playing a crucial role in shaping community structures. In this work, we aim to understand how species, acting as "mobile pathogen links" with their diverse movement patterns and life-history strategies, influence the distribution, spread, persistence, and evolution of diseases. | ![image-right](/assets/images/model1.gif){: .align-right width="75%"}| 
 
 ## Modelling invasive parasites
 
@@ -19,5 +19,4 @@ header:
 
 
 ## Bridging the Gap: Integrating Management Practices into Wildlife Disease Models
-![image](/assets/images/InteractionMap1.png){: .align-right width="50%"}
-A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.
+| A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.| ![image](/assets/images/InteractionMap1.png){: .align-right width="50%"}|
