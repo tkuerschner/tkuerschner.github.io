@@ -12,7 +12,7 @@ Infectious diseases are an increasing threat to biodiversity and human health. D
 
 ## Wildlife disease dynamics: Linking host and pathogen traits
 
-| Pathogens are a fundamental component of biodiversity, significantly impacting host population dynamics and playing a crucial role in shaping community structures. In this work, we aim to understand how species, acting as "mobile pathogen links" with their diverse movement patterns and life-history strategies, influence the distribution, spread, persistence, and evolution of diseases. [Key Publications](/publications/#host-pathogen-dynamics)   | ![image-right](/assets/images/model1.gif){: .align-right width="75%"}| 
+| Pathogens are a fundamental component of biodiversity, significantly impacting host population dynamics and playing a crucial role in shaping community structures. In this project, we aim to understand how species, acting as "mobile pathogen links" with their diverse movement patterns and life-history strategies, influence the distribution, spread, persistence, and evolution of diseases. This project was part of the [BioMove](https://www.bio-move.org/) research training group [Key Publications](/publications/#host-pathogen-dynamics)   | ![image-right](/assets/images/model1.gif){: .align-right width="75%"}| 
 
 ## :construction: Bridging the Gap: Integrating Management Practices into Wildlife Disease Models :construction: 
 
