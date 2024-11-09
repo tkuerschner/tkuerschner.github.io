@@ -16,9 +16,9 @@ Infectious diseases are an increasing threat to biodiversity and human health. D
 
 
 
-## Bridging the Gap: Integrating Management Practices into Wildlife Disease Models  <i class="fas fa-times"></i>
+## Bridging the Gap: Integrating Management Practices into Wildlife Disease Models :construction:
 
-| *A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.*<br> The model developed in the current state is a comprehensive simulation of individual and group dynamics, incorporating various behaviours and processes such as movement, mortality, hunting, pathogen dynamics, dispersal, home range behaviour, roaming, reproduction, group dynamics, and interactions between different layers. Each module contributes to a specific aspect of the model, providing detailed logic and functionality to simulate realistic population dynamics. The model incorporates stochastic elements to capture the inherent randomness in natural systems, making it a valuable tool for understanding complex ecological and epidemiological processes. While most critical model components are functionally implemented, the parameterisation and fine-tuning of behavioural components, to achieve the desired model outputs is currently ongoing.<br> :construction:
+| *A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.*<br> The model in development is a comprehensive simulation of individual and group dynamics, incorporating various behaviours and processes such as movement, mortality, hunting, pathogen dynamics, dispersal, home range behaviour, roaming, reproduction, group dynamics, and interactions between different layers. Each module contributes to a specific aspect of the model, providing detailed logic and functionality to simulate realistic population dynamics. The model incorporates stochastic elements to capture the inherent randomness in natural systems, making it a valuable tool for understanding complex ecological and epidemiological processes. While most critical model components are functionally implemented, the parameterisation and fine-tuning of behavioural components, to achieve the desired model outputs is currently ongoing.<br> 
 <br>Some of the key features are:
 
 - **Movement module**<br>
@@ -45,9 +45,7 @@ The interaction layer module handles the interactions between different layers o
 
 
 - **Carcass module**<br>
-The carcass module manages the creation and handling of carcasses within the model. It defines the Carcass Source trait, which is implemented by various entities such as Roamer, Group Member, and Dispersing Individual. This trait provides methods to retrieve an entity's ID, age class, position, creation time, and infection status. The file also includes logic for tracking the health status of individuals, particularly whether they are infected, and managing the spatial and temporal aspects of carcass creation. This functionality is crucial for modelling disease dynamics and the decomposition process.
-
- | ![image-right](/assets/images/InteractionMap1.png){: .align-right width="50%"}|
+The carcass module manages the creation and handling of carcasses within the model. It defines the Carcass Source trait, which is implemented by various entities such as Roamer, Group Member, and Dispersing Individual. This trait provides methods to retrieve an entity's ID, age class, position, creation time, and infection status. The file also includes logic for tracking the health status of individuals, particularly whether they are infected, and managing the spatial and temporal aspects of carcass creation. This functionality is crucial for modelling disease dynamics and the decomposition process. | ![image-right](/assets/images/InteractionMap1.png){: .align-right width="50%"}|
 
 
 
