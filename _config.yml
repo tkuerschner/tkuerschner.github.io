@@ -58,12 +58,12 @@ plugins:
 author:
   name   : "Dr. Tobias Kürschner"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am an ecologist specialized in individual-based models and disease ecology"
+  bio    : "I am an ecologist specialized in spatially-explicit agent-based models and disease ecology"
   links:
     - label: "Bavarian Forest National Park"
       icon: "fas fa-fw fa-location-dot"
       url: "https://www.nationalpark-bayerischer-wald.bayern.de/english/index.htm"
-    - label: "Leibniz Institute for Zoo\n\and Wildlife Research"
+    - label: "Leibniz Institute for Zoo<br>and Wildlife Research"
       icon: "fas fa-fw fa-location-dot"
       url: "https://www.izw-berlin.de/en/"
     - label: "Email"

@@ -3,7 +3,7 @@ title: 'Dr. Tobias Kürschner'
 layout: single
 classes: wide
 author_profile: true
-excerpt: 'Ecologist, agent-based modeller, data scientist,\n\ 
+excerpt: 'Ecologist, agent-based modeller, data scientist,<br> 
           wildlife disease researcher'
 header:
   overlay_image: assets/images/wbd.jpg
