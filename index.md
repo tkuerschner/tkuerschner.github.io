@@ -11,3 +11,7 @@ header:
 
 # About Me
 
+I am an ecologist with a specialized focus on **individual-based models** and **disease ecology**. My work centers on understanding how diseases spread and interact within wildlife populations, using individual-based modeling to simulate complex ecological dynamics at the level of individual organisms. With a passion for uncovering the nuances of disease transmission, my research bridges ecology and data science, aiming to support conservation efforts and biodiversity health.
+
+Through data-driven insights and computational modeling, I analyze population dynamics, species interactions, and the ecological impacts of diseases. My goal is to develop robust, predictive models that help address pressing challenges in wildlife health and ecosystem stability. I’m dedicated to advancing knowledge in wildlife disease ecology and contributing to practical solutions for conservation and ecosystem management.
+

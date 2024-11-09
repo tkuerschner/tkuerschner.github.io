@@ -6,15 +6,18 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+# Understanding Host-Pathogen Dynamics through individual decision making and population density
 
-# Project 1:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non leo sapien. Mauris quis molestie sapien. Suspendisse id feugiat purus. Etiam tempus ante sed rutrum scelerisque. Duis non sem massa. Proin placerat malesuada tempus. Nullam elit arcu, ultrices non sapien a, faucibus mattis nisl.
+## Wildlife disease dynamics: Linking host and pathogen traits
+![image-right](/assets/images/model1.gif){: .align-right width="50%"}
+Pathogens are a fundamental component of biodiversity, significantly impacting host population dynamics and playing a crucial role in shaping community structures. In this work, we aim to understand how species, acting as "mobile pathogen links" with their diverse movement patterns and life-history strategies, influence the distribution, spread, persistence, and evolution of diseases.
 
-Maecenas sit amet arcu sed felis blandit suscipit vel sit amet velit. Proin ut est mauris. Sed et eros ac sem interdum vehicula eget ornare nisi. Sed nunc turpis, tempor vel fermentum eget, egestas id neque. Quisque dapibus dictum tellus, non ornare magna. Nulla rhoncus, ex sed maximus gravida, sem felis cursus ipsum, vel molestie metus purus eu justo. Etiam vitae ligula at sem ultrices vehicula. Suspendisse gravida aliquet iaculis. Proin dictum ligula dui, in faucibus risus malesuada sed. Vivamus at malesuada metus, tempor facilisis massa. Mauris vehicula sodales commodo. Sed vel nulla imperdiet, elementum est dignissim, blandit sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean sed vulputate tortor. Fusce non ex congue ex malesuada lacinia at a nisi.
+## 
 
-Nullam ultrices volutpat consectetur. In lobortis libero id est malesuada, pulvinar euismod lacus iaculis. Etiam a pretium risus. In felis urna, porttitor a dictum nec, luctus a tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis lacinia sem et vulputate gravida. Pellentesque quis consequat erat. Nullam luctus magna non maximus vulputate. Morbi vel orci quis purus convallis tincidunt nec in leo. Cras facilisis semper turpis vitae mollis. Vestibulum ipsum purus, posuere in tempus egestas, cursus vitae nisl. Quisque eu pulvinar nulla. Quisque bibendum non ipsum ac faucibus. Sed nibh diam, mattis nec porta quis, hendrerit in sem. Ut interdum aliquam lectus, sit amet luctus nisl hendrerit at. Etiam non ullamcorper velit.
 
-Phasellus luctus nisi neque, eu tincidunt mauris posuere sed. Morbi eu enim id sapien venenatis iaculis. Quisque a nunc ac ante luctus pharetra ut eget neque. Nam finibus imperdiet nunc vitae tristique. Praesent sapien arcu, consequat nec tempor aliquam, aliquam nec neque. Etiam in interdum nibh. Nam nunc felis, pulvinar nec egestas scelerisque, suscipit in odio. Etiam quis consequat ex, nec posuere tortor. Ut ultricies massa ut nisl lacinia, egestas lacinia est sagittis. Donec ante ex, congue a pretium a, laoreet consequat dui.
 
-Sed lorem leo, bibendum eu est vel, commodo vehicula urna. Nullam at orci odio. Integer metus ipsum, aliquet eu euismod ac, commodo a mauris. Pellentesque maximus vulputate convallis. Sed eget imperdiet enim, vitae condimentum mauris. Quisque ipsum ex, suscipit pharetra nisl id, semper semper libero. Nullam in lorem non sem consequat bibendum. Duis rhoncus purus ut risus efficitur volutpat. Fusce mauris felis, dapibus at elit id, posuere tristique ipsum. Pellentesque feugiat risus quis nunc vehicula vulputate. 
+
+## Bridging the Gap: Integrating Management Practices into Wildlife Disease Models
+![image](/assets/images/InteractionMap1.png){width="50%"}
+A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.
