@@ -19,4 +19,4 @@ header:
 
 
 ## Bridging the Gap: Integrating Management Practices into Wildlife Disease Models
-| A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.| ![image](/assets/images/InteractionMap1.png){: .align-right width="50%"}|
+| A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.| ![image-right](/assets/images/InteractionMap1.png){: .align-right width="75%"}|
