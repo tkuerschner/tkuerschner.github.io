@@ -17,7 +17,8 @@ title: Tobias Kürschner
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Dr. Tobias Kürschner's professional website. Tobias Kürschner is an ecologist and data scientist specializing in individual/agent-based modeling, wildlife disease ecology, and advanced data analysis. With a passion for understanding wildlife disease dynamics, biodiversity, and conservation, Tobias Kürschner leverages statistical modeling, machine learning, and spatial analysis to provide insights into ecological systems. Discover more about his research, projects, and publications in disease ecology, ecological modeling, and data-driven solutions for conservation.
-keywords: >-
+#keywords: >-
+  keywords - 
   Ecologist, Wildlife Disease Ecology, Individual-Based Modeling, Agent-Based Modeling, Data Science in Ecology, Disease Ecology Research, Conservation Data Science, Wildlife Modeling, Biodiversity Analysis, Ecological Modeling, Statistical Ecology, Agent-Based Modeling in Wildlife, Computational Ecology, Ecosystem Modeling, Population Dynamics Modeling, Zoonotic Disease Ecology, Infectious Disease Modeling in Wildlife, Predictive Modeling for Ecosystems, Disease Transmission in Wildlife Populations, Statistical Analysis in Ecology, Behavioral Ecology Modeling, Complex Systems in Ecology
 github_username: tkuerschner
 minimal_mistakes_skin: "dark"
@@ -73,6 +74,9 @@ author:
     - label: "OrcID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-4587-9894"
+    - label: "Bavarian Forest National Park"
+      icon: "fa-regular fa-location-arrow"
+      url: "https://www.nationalpark-bayerischer-wald.bayern.de/english/index.htm"
 
 footer:
   links:
