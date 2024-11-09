@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tobias Kürschner
-email:
+email: tobias.kuerschner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Dr. Tobias Kürschner's professional website. Tobias Kürschner is an ecologist and data scientist specializing in individual/agent-based modeling, wildlife disease ecology, and advanced data analysis. With a passion for understanding wildlife disease dynamics, biodiversity, and conservation, Tobias Kürschner leverages statistical modeling, machine learning, and spatial analysis to provide insights into ecological systems. Discover more about his research, projects, and publications in disease ecology, ecological modeling, and data-driven solutions for conservation. keywords - 
   Ecologist, Wildlife Disease Ecology, Individual-Based Modeling, Agent-Based Modeling, Data Science in Ecology, Disease Ecology Research, Conservation Data Science, Wildlife Modeling, Biodiversity Analysis, Ecological Modeling, Statistical Ecology, Agent-Based Modeling in Wildlife, Computational Ecology, Ecosystem Modeling, Population Dynamics Modeling, Zoonotic Disease Ecology, Infectious Disease Modeling in Wildlife, Predictive Modeling for Ecosystems, Disease Transmission in Wildlife Populations, Statistical Analysis in Ecology, Behavioral Ecology Modeling, Complex Systems in Ecology
@@ -63,7 +63,7 @@ author:
     - label: "Bavarian Forest National Park"
       icon: "fas fa-fw fa-location-dot"
       url: "https://www.nationalpark-bayerischer-wald.bayern.de/english/index.htm"
-    - label: "Leibniz Institute for Zoo /nand Wildlife Research"
+    - label: "Leibniz Institute for Zoo \nand Wildlife Research"
       icon: "fas fa-fw fa-location-dot"
       url: "https://www.izw-berlin.de/en/"
     - label: "Email"
