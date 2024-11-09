@@ -63,7 +63,7 @@ author:
     - label: "Bavarian Forest National Park"
       icon: "fas fa-fw fa-location-dot"
       url: "https://www.nationalpark-bayerischer-wald.bayern.de/english/index.htm"
-    - label: "Leibniz Institute for Zoo<br>and Wildlife Research"
+    - label: "Leibniz Institute for Zoo and<br> Wildlife Research"
       icon: "fas fa-fw fa-location-dot"
       url: "https://www.izw-berlin.de/en/"
     - label: "Email"
