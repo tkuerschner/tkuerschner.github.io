@@ -3,7 +3,8 @@ title: 'Dr. Tobias Kürschner'
 layout: single
 classes: wide
 author_profile: true
-excerpt: 'Ecologist, agent-based modeller, data scientist, wildlife disease researcher'
+excerpt: 'Ecologist, agent-based modeller, data scientist, 
+          wildlife disease researcher'
 header:
   overlay_image: assets/images/wbd.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
