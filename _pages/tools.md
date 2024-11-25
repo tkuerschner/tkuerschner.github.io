@@ -15,7 +15,7 @@ header:
 
 Small too for managing a large amount of files for archiving. Multi-file model outputs, especially when many simulation are run can pile up very fast. This tool can help to easily archive them and removes a lot of manual labor. 
 
-![image-right](/assets/images/Archivist/a1.png){: width="2.5%"}
+![image-right](/assets/images/Archivist/a1.png){: width="50%"}
 
 ## Key Features
 
