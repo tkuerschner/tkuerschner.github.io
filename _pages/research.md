@@ -29,7 +29,7 @@ Infectious diseases are an increasing threat to biodiversity and human health. D
 
  | *A highly detailed, scalable, spatially explicit agent-based model for African swine fever (ASF) management.*<br> The model in development ![image](https://cdn3.emoji.gg/emojis/11533-rust-logo.png){: width="2.5%"} is a simulation of individual and group dynamics, incorporating behaviours and processes such as movement, mortality, hunting, pathogen dynamics, dispersal, home range behaviour, roaming, reproduction, group dynamics, and interactions between different layers.
 
-## Video Demonstration
+
 
 
 
