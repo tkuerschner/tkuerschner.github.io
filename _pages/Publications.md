@@ -6,12 +6,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-![image](https://cdn3.emoji.gg/emojis/11533-rust-logo.png){: width="2.5%"}
 
 
-## under construction 
 
-![image](https://cdn3.emoji.gg/emojis/11533-rust-logo.png){: width="2.5%"}
+## :construction: under construction :construction:
+
+
 
 ## Peer reviewed publications
 ### Host-Pathogen Dynamics
