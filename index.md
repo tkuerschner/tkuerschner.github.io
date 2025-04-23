@@ -18,6 +18,7 @@ header:
   Your browser does not support the video tag.
 </video>
 
+<br>
 
 I am an ecologist specializing in **individual-based models** and **disease ecology**. My research focuses on understanding how diseases spread within and between wildlife populations. I use individual-based models to simulate complex ecological dynamics at the individual level and aim to uncover the nuances of disease transmission. My research bridges ecology and data science, aiming to support conservation efforts, disease management, biodiversity and health. 
 
