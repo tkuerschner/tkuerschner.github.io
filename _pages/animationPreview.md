@@ -7,7 +7,27 @@ header:
 ---
 
 
-## Preview: large scale map into smaller scale into movement animation with infection:
+## Zaun Szenarien, mit besser Sichtbarkeit der infizierten Tiere
+
+### Partielle Einzäunung 
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="/assets/videos/infectionProcedure_partialFence.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+### Komplette Einzäunung 
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="/assets/videos/infectionProcedure_fullFence.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+## Preview: large scale map into smaller scale into movement animation with infection: (Alte Version)
+
 
 <video autoplay loop muted playsinline width="100%">
   <source src="/assets/videos/movementPreview.mp4" type="video/mp4">
