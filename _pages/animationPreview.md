@@ -9,6 +9,25 @@ header:
 
 ## Zaun Szenarien, mit besser Sichtbarkeit der infizierten Tiere
 
+
+### Komplette Einzäunung **NEU** 100% Effectivity
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="/assets/videos/infectionProcedure_fullFenceNoPerm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+### Komplette Einzäunung Alt ~90% Effectivity
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="/assets/videos/infectionProcedure_fullFence.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
 ## Neue Version des Beispiel-Ausbruchs und der Skalierung
 
 <video autoplay loop muted playsinline width="100%">
@@ -32,12 +51,6 @@ header:
 </video>
 
 
-### Komplette Einzäunung 
-
-<video autoplay loop muted playsinline width="100%">
-  <source src="/assets/videos/infectionProcedure_fullFence.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
