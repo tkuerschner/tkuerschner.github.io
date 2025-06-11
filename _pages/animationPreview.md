@@ -13,7 +13,7 @@ header:
 
 Für eine bessere Übersicht, schauen wir uns das Ausbruchsgeschehen nur im Sperrbereich  an.
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline controls width="100%">
   <source src="/assets/videos/move_video_intor_scale_with_run.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -22,7 +22,7 @@ Für eine bessere Übersicht, schauen wir uns das Ausbruchsgeschehen nur im Sper
 
 Zaun ist komplett undurchlässig, und Infektion durch den Zaun ist sehr unwahrscheinlich
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline controls width="100%">
   <source src="/assets/videos/infectionProcedure_fullFenceNoPerm.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -32,7 +32,7 @@ Zaun ist komplett undurchlässig, und Infektion durch den Zaun ist sehr unwahrsc
 
 Zaun ist nur so zu ~90% effektiv in der Blockade von Wildschweinen und dadurch ist auch eine Infektion durch den Zaun leichter möglich 
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline controls width="100%">
   <source src="/assets/videos/infectionProcedure_fullFence.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -41,7 +41,7 @@ Zaun ist nur so zu ~90% effektiv in der Blockade von Wildschweinen und dadurch i
 
 Zaun ist komplett undurchlässig an Orten, wo er vorhanden ist, aber die Einzäunung ist noch komplett und es existieren große offene Bereiche
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline controls width="100%">
   <source src="/assets/videos/infectionProcedure_partialFence.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -51,7 +51,7 @@ Zaun ist komplett undurchlässig an Orten, wo er vorhanden ist, aber die Einzäu
 
 Exemplarische Bewegung einer Wildschweingruppe (hier mit nur einem Symbol dargestellt) vor und nach Zaunbau.
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline controls width="100%">>
   <source src="/assets/videos/closeup_groupfence_movement.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
