@@ -9,7 +9,7 @@ header:
 ## Download Resources
 
 <div class="download-section">
-  <a href="/assets/downloads/kuerschner_ASP_IBM_Vortrag.zip" class="btn btn--primary btn--large" download>
+  <a href="/assets/dnl/kuerschner_ASP_IBM_Vortrag.zip" class="btn btn--primary btn--large" download>
     <i class="fas fa-download" aria-hidden="true"></i> Download ASF Model
   </a>
   
