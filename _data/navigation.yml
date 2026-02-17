@@ -5,8 +5,8 @@ main:
     url: /publications/
   - title: "Research"
     url: /research/
-  #- title: "Tools"
-  #  url: /tools/
+  - title: "Tools"
+    url: /tools/
   - title: "Tutorials"
     url: /tutorials/
   #- title: "Categories"
